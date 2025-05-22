@@ -1,38 +1,41 @@
-**Here’s your GitHub bio—now with 200% more retro-cool visuals and hacker vibes:**  
+  _________________________________________________________
+ /                                                         \
+|   ██╗░░░██╗██╗░░██╗███╗░░██╗███████╗  ░█████╗░███████╗  |
+|   ██║░░░██║██║░██╔╝████╗░██║██╔════╝  ██╔══██╗██╔════╝  |
+|   ██║░░░██║█████═╝░██╔██╗██║█████╗░░  ██║░░╚═╝█████╗░░  |
+|   ██║░░░██║██╔═██╗░██║╚████║██╔══╝░░  ██║░░██╗██╔══╝░░  |
+|   ╚██████╔╝██║░╚██╗██║░╚███║███████╗  ╚█████╔╝███████╗  |
+|   ░╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝  ░╚════╝░╚══════╝  |
+ \_________________________________________________________/
+          |  JUNE OE CORE DEV | HYBRID KERNEL SORCERER  |
+          |--------------------------------------------|
+          |> Resurrecting 90s computing in post-2000s world
+          |> Making "It compiles?" a lifestyle choice
+          |> BSD/DOS fusion reactor at critical mass
+          |--------------------------------------------|
+          |> $ uname -a
+          |  JUNE_OE 1.0 #1 SMP PREEMPT Jun 1993 i386
+          |  GNU/BSD/DOS HYBRID KERNEL PANIC READY
 
----
+          |> $ cat /proc/june/specs
+          |  • CPU: 386+ (w/ math coprocessor recommended)
+          |  • RAM: 4MB-64MB (disregard memory leaks)
+          |  • FS: JuneFS/JDOS+EXT2 Frankenstein
+          |  • GUI: Win98-style shell on BSD bones
 
-### **GitHub Bio: Ultra-Cool Edition**  
+          |> $ ./socials.sh --hack
+          |  [*] MATRIX: @june_dev:retro.hack
+          |  [*] DISCORD: JuneOE_Dev#1337
+          |  [*] BBS: juneos.bbs.retro (2400 baud)
 
-**🔥 𝕵𝖚𝖓𝖊𝖔𝖘 𝕯𝖊𝖛 | 𝕳𝖞𝖇𝖗𝖎𝖉 𝕶𝖊𝖗𝖓𝖊𝖑 𝕮𝖔𝖓𝖏𝖚𝖗𝖊𝖗 | 𝕽𝖊𝖙𝖗𝖔-𝕱𝖚𝖙𝖚𝖗𝖎𝖘𝖙**  
+          |> $ sudo make install
+          |  [sudo] password for wizard: ********
+          |  Installing legacy drivers...
+          |  ERROR: Missing .vxd files - Insert Win95 CD?
+          |______________________________________________
 
-`>>>` Crafting **"The June Operating Environment"** — where **DOS bones** meet **BSD brains** in a **glitchy, glorious** OS resurrection.  
-
-- **💾 Current Mission:** Making `JuneOE` boot faster than your **Windows 98 nostalgia**.  
-- **🛠️ Stack:** `C` | `ASM` | `Forth` | **Regrets** | `ANSI` | `0xCAFEBABE`  
-- **🎮 Fun Fact:** My kernel’s **error messages** are wittier than its **memory management**.  
-
-**📟 Terminal Art:**  
-``` 
-  ╔════════════════════╗  
-  ║   JUNEOS v1.0      ║  
-  ║  © 1991-2024       ║  
-  ║  LOADING COOL...   ║  
-  ╚════════════════════╝  
-```  
-
-**📡 Meme Ready:**  
-> *"It’s not a bug—it’s a **zero-day feature**."*  
-
-**🌐 Socials:**  
-[![Matrix](https://img.shields.io/badge/Matrix-00ff88?style=flat&logo=matrix)](your-matrix-link)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord)](your-discord)  
-
----
-
-### **Want Even More Flair?**  
-- Add **ASCII art of a CRT monitor**?  
-- Include a **fake "retro badge"** (`[![JuneOS](https://img.shields.io/badge/JUNEOS-vaporware-orange)]`)?  
-- **Glitch text** for the header? (`J̴u̴n̴e̴O̴S̴`)?  
-
-This bio **screams** *"I resurrect old tech with style."* Let me know what else to amp up! 🚀💥
+  WARNING: This profile contains:
+  - 300% more nostalgia than FDA daily recommended value
+  - Kernel modules written in pure hubris
+  - ANSI art that crashes modern terminals
+  - "Works on my machine" guarantees
