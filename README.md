@@ -3,15 +3,21 @@
 
 I fix computers, write code, and design experiences.
 
-What I do:
-- 🛠️ Repair: Laptops, desktops, and tech that needs love
-- 💻 Code: Python, HTML, and expanding my toolkit
-- 🎨 Design: Crafting innovative, user-focused interfaces
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-What I'm building:
+WHAT I DO
+🛠️ Repair laptops, desktops, and tech that needs love
+💻 Code in Python, HTML, and expanding my toolkit
+🎨 Design innovative, user-focused interfaces
+
+CURRENT PROJECT
 🚀 Odyssey OS - my own operating system
-💾 Deployment target: IBM ThinkPad T43 (yes, really!)
+💾 Deployment target: IBM ThinkPad T43
 
-🎯 Driven by: Innovation & exceptional UX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Driven by innovation & exceptional UX
 🌱 Always learning new languages
 🤝 Open to interesting projects
+
+📍 Based in Poland
