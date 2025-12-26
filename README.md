@@ -1,12 +1,17 @@
 ![Image Alt](https://github.com/Velevr/Velevr/blob/main/velevrbio.png?raw=true)
-👨‍💻 Software Engineer | Crafting digital experiences
+🔧 Velevr | Where Hardware Meets Software
 
-🔧 Stack:
-   • Languages: JavaScript, TypeScript, Python
-   • Frontend: React
-   • Backend: Node.js
-   • Tools: Docker
+I fix computers, write code, and design experiences.
 
-🎯 Focused on: Clean code • Scalable architecture • Great UX
+What I do:
+- 🛠️ Repair: Laptops, desktops, and tech that needs love
+- 💻 Code: Python, HTML, and expanding my toolkit
+- 🎨 Design: Crafting innovative, user-focused interfaces
 
-🌱 Continuous learner | 📍 Poland
+What I'm building:
+🚀 Odyssey OS - my own operating system
+💾 Deployment target: IBM ThinkPad T43 (yes, really!)
+
+🎯 Driven by: Innovation & exceptional UX
+🌱 Always learning new languages
+🤝 Open to interesting projects
