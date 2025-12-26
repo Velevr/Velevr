@@ -1,3 +1,3 @@
 No bio rn :(
 
-![Image Alt](https://developer.apple.com/macos/images/screen-macos26-large_2x.jpg)
+![Image Alt](C:\Users\velev\Desktop\designs)
