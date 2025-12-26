@@ -20,4 +20,3 @@ CURRENT PROJECT
 🌱 Always learning new languages
 🤝 Open to interesting projects
 
-📍 Based in Poland
