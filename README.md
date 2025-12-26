@@ -1,3 +1,1 @@
-No bio rn :(
-
-![Image Alt](C:\Users\velev\Desktop\designs)
+![Image Alt](https://github.com/Velevr/Velevr/blob/main/velevrbio.png?raw=true)
