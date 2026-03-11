@@ -1,7 +1,7 @@
 ![Image Alt](https://github.com/Velevr/Velevr/blob/main/velevrbio.png?raw=true)
-🔧 Velevr | Where Hardware Meets Software
+🔧 Velevr 
 
-I fix computers, write code, and design experiences.
+I fix computers, write code, and design.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -15,8 +15,3 @@ CURRENT PROJECT
 💾 Deployment target: IBM ThinkPad T43
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 Driven by innovation & exceptional UX
-🌱 Always learning new languages
-🤝 Open to interesting projects
-
